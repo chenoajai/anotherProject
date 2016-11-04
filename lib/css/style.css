@@ -1,0 +1,24 @@
+#container{
+  background: url('http://tinyurl.com/jhmuy7r') no-repeat center center;
+  color: white;
+  background-size: cover;
+  text-align: center;
+  height: 500px;
+}
+
+#facebook{
+  size: 5px;
+}
+
+#container1{
+  background-color: yellow;
+  padding-top: 0, 0, 0;
+}
+
+
+h1, form{
+  text-align: center;
+}
+h1{
+  font-size: 6em;
+}
